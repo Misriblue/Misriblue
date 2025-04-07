@@ -1,7 +1,28 @@
-## Hi there 👋
+<h1>Hi, I'm Misrak!
+ <br/><a href="https://github.com/misriblue">Front end developer</a>, <a href="https://www.linkedin.com/in/misriblue/">lifelong learner</a>, <a href="https://www.youtube.com/@MyPath-k9n">YouTuber</a></h1>
+
+<h2>👨‍💻  Projects during my learning process:</h2>
+
+- <b>my first school project</b>
+  - [practicing HTML & CSS](https://github.com/Misriblue/first)
+- <b>2nd school project </b>
+  - (https://github.com/Misriblue/Mi) 
+- <b>weather app</b>
+  - [live weather app](https://github.com/Misriblue/weather-app)
+ 
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="misriblue | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
+[<img align="left" alt="misriblue | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[youtube]: https://www.youtube.com/@MyPath-k9n
+[my website]: https://bluebird7.neocities.org/
+[linkedin]: https://linkedin.com/in/misriblue
 
 <!--
-**Misriblue/Misriblue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +35,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+

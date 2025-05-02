@@ -11,17 +11,25 @@
   - [live weather app](https://github.com/Misriblue/weather-app)
  
 
-<h2> 🤳 Connect with me:</h2>
+### 📈 GitHub Stats
 
-[<img align="left" alt="misriblue | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=misriblue&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
 
-[<img align="left" alt="misriblue | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+---
 
+### 📫 How to Reach Me
 
-[youtube]: https://www.youtube.com/@MyPath-k9n
-[my website]: https://bluebird7.neocities.org/
-[linkedin]: https://linkedin.com/in/misriblue
+- ✉️ Email: <a href="mailto:misriblue@gmail.com">misriblue@gmail.com</a>
+- 💼 LinkedIn: [misriblue](https://www.linkedin.com/in/misriblue)
+- 🌐 Website: [bluebird7.neocities.org](https://bluebird7.neocities.org/)
 
+---
+
+<p align="center">
+  <em>"Always improving. Always building."</em>
+</p>
 <!--
 
 Here are some ideas to get you started:

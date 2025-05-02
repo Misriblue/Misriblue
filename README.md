@@ -1,7 +1,23 @@
 <h1>Hi, I'm Misrak!
  <br/><a href="https://github.com/misriblue">Front end developer</a>, <a href="https://www.linkedin.com/in/misriblue/">lifelong learner</a>, <a href="https://www.youtube.com/@MyPath-k9n">YouTuber</a></h1>
+ <p align="center">
+  <em>Learner at <strong>ALX Africa</strong> | Passionate about crafting intuitive web experiences & sustainable design</em>
+</p>
 
-<h2>👨‍💻  Projects during my learning process:</h2>
+---
+
+### 🚀 About Me
+
+- 👨‍💻 Currently learning front-end development at **ALX Africa**
+- 🌐 I built my first personal site: [bluebird7.neocities.org](https://bluebird7.neocities.org/)
+- 💡 Passionate about **making things easier**, more accessible, and user-centered
+- 🧠 Focused on **HTML, CSS, JavaScript**, and responsive design
+
+
+---
+
+
+<h2>👩‍💻 Fun Projects I Created During My SheCodes Journey:</h2>
 
 - <b>my first school project</b>
   - [practicing HTML & CSS](https://github.com/Misriblue/first)
